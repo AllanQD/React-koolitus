@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.pilt {
+  width: 100px;
+}
+
+.pilt:hover {
+  width: 120px; 
+  cursor: pointer;
+}
+
+.pilt:active {
+  width: 110px;
+  transform: rotate(1.1deg);
+}
+
+.nupp {
+  width: 100px;
+}
+
+.nupp:hover {
+  width: 120px;
+  cursor: pointer;
+}
+
+.nupp:active {
+  width: 110px;
+  transform: rotate(1.1deg);
+}
+
+p {
+  border: 1px solid red;
+}
+
+.tekst {
+  border: 3px double green;
+}
